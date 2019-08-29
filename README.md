@@ -1,5 +1,5 @@
 # deepLearning
-Programação de modelos de **Deep Learning_** em *Python*.
+Programação de modelos de **_Deep Learning_** em *Python*.
 
 **_Leonardo Damasio_**
 
