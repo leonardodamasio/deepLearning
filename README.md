@@ -1,5 +1,5 @@
 # deepLearning
-Programação de modelos de **_Deep Learning_** em *Python*.
+Programação de modelos de **_Deep Learning_** em *Python* e *R*.
 
 **_Leonardo Damasio_**
 
@@ -13,9 +13,11 @@ Dentro de cada diretório, você também encontrará as bases utilizadas para re
 
 Sendo assim, fique a vontade para testá-los :)
 
-Todos os modelos foram feitos através da linguagem *Python* no **Jupyter Lab**.
+Todos os modelos foram feitos através da linguagem *Python* e linguagem *R* no **Jupyter Lab**.
 
 Algumas das bibliotecas utilizadas foram `Keras`, `TensorFlow`, `Pandas`, `NumPy`, `Scikit-Learn` e `MatPlotLib`.
+
+Já em R, foi utilizada a a biblioteca `h2o`.
 
 Qualquer dúvida, favor entrar em contato:
 
