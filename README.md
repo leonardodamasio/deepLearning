@@ -17,7 +17,7 @@ Todos os modelos foram feitos através da linguagem *Python* e linguagem *R* no 
 
 Algumas das bibliotecas utilizadas foram `Keras`, `TensorFlow`, `Pandas`, `NumPy`, `Scikit-Learn` e `MatPlotLib`.
 
-Já em R, foi utilizada a a biblioteca `h2o`.
+Já em R, foi utilizada a a biblioteca `H2O`.
 
 Qualquer dúvida, favor entrar em contato:
 
